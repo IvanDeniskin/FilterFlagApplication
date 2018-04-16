@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\IVAN\.android\build-cache\d8f6ca074befed1ff85819dda9dec9ae7602bb5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b13b092abc01309e88a63babaa9f5b082b1c852">
+        <dex dex="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6622d1b09a9f8ca726bb81de02dd31f199e50d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IVAN\.android\build-cache\e8e4e4c8db61ad863c1ab4551d9d5ee6f9e7ba58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c743a2fd48eaf8ea5eac0bdfa23c654ca4d0fd74">
+        <dex dex="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\pre-dexed\release\classes_83b2559a0c6763b442e65eb83023a3a6a8e0727b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="21175b4e55f2c98f730412e304c2cbec73bd0904">
+        <dex dex="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2cc53b98ae21b76ba4b7e9446ce8de19733c49d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IVAN\.android\build-cache\d8f6ca074befed1ff85819dda9dec9ae7602bb5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b13b092abc01309e88a63babaa9f5b082b1c852">
+        <dex dex="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\pre-dexed\release\classes_6622d1b09a9f8ca726bb81de02dd31f199e50d3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IVAN\.android\build-cache\e8e4e4c8db61ad863c1ab4551d9d5ee6f9e7ba58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c743a2fd48eaf8ea5eac0bdfa23c654ca4d0fd74">
+        <dex dex="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83b2559a0c6763b442e65eb83023a3a6a8e0727b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IVAN\.android\build-cache\af2434af5d30f267652beaf0d21f4b36f613d498\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f214c2c35d842923db71689a7e69389124c59202">
+        <dex dex="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\pre-dexed\release\classes_6ebce89e3059944f05e3e0207ae564bd69f7b416.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\IVAN\AndroidStudioProjects\RussianFlagPhotoMaker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1c8d13120c2be3023a27703870da586d9affe568\classes.dex" />
+    </item>
+
+</items>
